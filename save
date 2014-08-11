@@ -1,0 +1,45 @@
+[33mcommit c657b4b3cde6555092d220e4638a7afab36fe09b[m
+Author: tiffanywang <ymjh11436@gmail.com>
+Date:   Mon Aug 11 12:28:19 2014 +0800
+
+    debug of personality
+
+[33mcommit 22219536e710f43cd2224b2f13cc33c84b476888[m
+Author: tiffanywang <ymjh11436@gmail.com>
+Date:   Mon Aug 11 12:24:42 2014 +0800
+
+    update personality.txt
+
+[33mcommit 2fdead3d47683715828314adc7affeb780276458[m
+Merge: d912095 2daa768
+Author: tiffanywang <ymjh11436@gmail.com>
+Date:   Mon Aug 11 11:46:46 2014 +0800
+
+    Merge branch 'new_branch'
+    remove hobby.txt
+    Conflicts:
+    	hobby.txt
+
+[33mcommit 2daa7681a7cb1f6b784032454b34f1c08b2108ed[m
+Author: tiffanywang <ymjh11436@gmail.com>
+Date:   Mon Aug 11 11:22:40 2014 +0800
+
+    add new txt file -> personality.txt
+
+[33mcommit 38866b7e4deea7bf408f2f89f0153523a972eb98[m
+Author: tiffanywang <ymjh11436@gmail.com>
+Date:   Mon Aug 11 10:27:15 2014 +0800
+
+    new one line of hobby.txt
+
+[33mcommit d91209531eb496883f6677287a3d3bab4a8da8fc[m
+Author: tiffanywang <ymjh11436@gmail.com>
+Date:   Mon Aug 11 10:24:02 2014 +0800
+
+    add hobby.txt -> I love music.
+
+[33mcommit 4cc57fa73fe4f9d264f67cc05063c593d21c4782[m
+Author: tiffanywang <tiffanywang@stratevision.com>
+Date:   Mon Aug 11 10:07:28 2014 +0800
+
+    Initial commit
